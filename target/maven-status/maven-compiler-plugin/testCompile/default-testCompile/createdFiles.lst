@@ -1,0 +1,6 @@
+tests\loginprocess\CommunityPageLoginProcessTest.class
+tests\loginprocess\HomePageLoginProcessTest.class
+tests\loginprocess\LoginPageProcessTest.class
+tests\base\BaseTest.class
+tests\exima\EximaLoginProcess.class
+tests\loginprocess\EplPageLoginProcessTest.class
